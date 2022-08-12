@@ -1,0 +1,5 @@
+package com.generation.ljgames.service;
+
+public class UsuarioService {
+
+}

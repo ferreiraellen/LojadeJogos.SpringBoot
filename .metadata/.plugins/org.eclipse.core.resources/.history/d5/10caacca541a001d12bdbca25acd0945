@@ -1,0 +1,19 @@
+package com.generation.ljgames.repository;
+
+import java.util.List;
+
+import org.springframework.stereotype.Repository;
+
+import com.generation.ljgames.model.CategoriaModel;
+
+@Repository
+public interface CategoriaRepository {
+
+		   public List<CategoriaModel> findAllByCategoriaContainingIgnoreCase(String categoria);
+		}
+
+
+
+
+
+

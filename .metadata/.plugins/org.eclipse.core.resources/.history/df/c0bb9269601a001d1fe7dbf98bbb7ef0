@@ -1,0 +1,5 @@
+package com.generation.ljgames.security;
+
+public class UserDetailsImpl {
+
+}

@@ -1,0 +1,10 @@
+
+
+@Entity
+@Table(name = "produto")
+public class ProdutoModel {
+	
+	
+	
+}
+
